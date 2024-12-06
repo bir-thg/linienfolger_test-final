@@ -18,7 +18,6 @@ input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
     }
 })
 let istZielVar = false
-istZielVar = false
 basic.setLedColor(0x0000ff)
 maqueen.setColor(0x0000ff)
 basic.showString("A")
